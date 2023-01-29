@@ -1,6 +1,8 @@
 # Circle-Image-View
 Custom Circle Image VIew
 
+[![](https://jitpack.io/v/DangiAshish/Circle-Image-View.svg)](https://jitpack.io/#DangiAshish/Circle-Image-View)
+
 #### Gradle
  ```gradle
  allprojects {
@@ -14,6 +16,6 @@ Custom Circle Image VIew
  
  ```Dependency
  dependencies {
-	        implementation 'com.github.DangiAshish:Circle-Image-View:1.0.1'
+	        implementation 'com.github.DangiAshish:Circle-Image-View:1.0.2'
 	}
  ```
