@@ -2,8 +2,10 @@ plugins {
     id 'com.android.library'
 }
 
+
+
 android {
-    namespace 'com.codebyashish.circleimageview'
+    namespace 'com.codebyashish'
     compileSdk 33
 
     defaultConfig {

@@ -1,4 +1,4 @@
-package com.codebyashish.circleimageview;
+package com.codebyashish;
 
 import org.junit.Test;
 

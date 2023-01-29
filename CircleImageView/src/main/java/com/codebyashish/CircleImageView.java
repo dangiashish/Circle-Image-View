@@ -1,5 +1,5 @@
 
-package com.codebyashish.circleimageview;
+package com.codebyashish;
 
 import android.content.Context;
 import android.content.res.TypedArray;

@@ -14,6 +14,8 @@ dependencyResolutionManagement {
         maven { url "https://jitpack.io" }
     }
 }
+
+
 rootProject.name = "Circle Image View"
 include ':app'
 include ':CircleImageView'
