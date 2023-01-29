@@ -14,6 +14,6 @@ Custom Circle Image VIew
  
  ```Dependency
  dependencies {
-	        implementation 'com.github.DangiAshish:Circle-Image-View:Tag'
+	        implementation 'com.github.DangiAshish:Circle-Image-View:1.0.1'
 	}
  ```
