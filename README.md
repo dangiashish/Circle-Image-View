@@ -19,3 +19,17 @@ Custom Circle Image VIew
 	        implementation 'com.github.dangiashish:Circle-Image-View:1.0.2'
 	}
  ```
+
+### XML
+```groovy
+<com.codebyashish.CircleImageView
+        android:id="@+id/ivUserPic"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:src="@drawable/ic_user2"
+        app:civ_border_color="@color/gray"
+        app:civ_border_width="2dp"
+
+        android:layout_gravity="center_vertical"
+        android:layout_margin="10dp"/>
+```
